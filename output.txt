@@ -1,0 +1,235 @@
+
+
+
+Mortal Kombat II (SNES) - The Cutting Room Floor
+document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Mortal_Kombat_II_(SNES)","wgTitle":"Mortal Kombat II (SNES)","wgCurRevisionId":1254130,"wgRevisionId":1254130,"wgArticleId":7376,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages missing developer references","Games developed by Sculptured Software","Pages missing publisher references","Games published by Acclaim Entertainment","Games published by Acclaim Japan","SNES games","Pages missing date references","Games released in 1994","Games released in November","Games released on November 11","Games released in September","Games released on September 9","Games released in October","Games with regional differences","Games with revisional differences","Mortal Kombat series"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext",
+"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Mortal_Kombat_II_(SNES)","wgRelevantArticleId":7376,"wgRequestId":"a7b73f970cc81bcb6a5f872d","wgCSPNonce":!1,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgULSAcceptLanguageList":["en"],"wgULSCurrentAutonym":"English","simpleBatchUploadMaxFilesPerBatch":{"*":1000}};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","ext.uls.pt":"ready","mediawiki.skinning.interface":"ready",
+"skins.vector.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.searchSuggest","ext.uls.interface","skins.vector.js"];
+(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+If you appreciate the work done within the wiki, please consider supporting The Cutting Room Floor on Patreon. Thanks for all your support!
+	
+
+
+
+	Mortal Kombat II (SNES)
+	
+	
+		From The Cutting Room Floor
+		
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		
+
+
+
+
+
+
+Mortal Kombat II
+
+
+
+Also known as: Mortal Kombat II: Kyuukyoku Shinken (JP)Developer: Sculptured SoftwarePublishers: Acclaim Entertainment (US/EU), 
+Acclaim Japan (JP)Platform: 
+SNESReleased in JP: November 11, 1994Released in US: September 9, 1994Released in EU: October 1994
+
+
+ This game has regional differences. This game has revisional differences.
+
+ This game has a prototype article This game has a prerelease article
+
+After the massive controversy about how Nintendo's content guidelines took out half the point of the first game and proved that "Genesis Does What Nintendon't", the go-ahead was given for more violent games to appear on Nintendo platforms. As such, the SNES Mortal Kombat II was practically arcade-perfect, except you didn't have to shove coins into your cartridge slot every ten seconds when fighting the ever-cheap bosses.
+
+Sub-Pages
+Prototype InfoPrerelease Info
+Regional Differences
+
+The Japanese version is unique in that it has...censorship. Blood is recolored green, and the game palette fades into greyscale when a Fatality begins (except for The Bridge's Stage Fatality). Although Japan is generally more tolerant of violence in the media than other cultures, it is much less tolerant toward the graphic dismemberment of humans, which is probably the reason why this was changed. It's notably the only Japanese release of the series to feature any edits; all other versions of Mortal Kombat II released there (including the Japanese-exclusive PlayStation port) as well as subsequent titles in the series (the few they got, anyway) were not edited in any way. 
+
+
+Revisional Differences
+The original US release (v1.0) does not show the fighting demonstration during the intro. This was added in v1.1 and carried over to the Japanese and European releases.
+Also added in the v1.1 release is the animated Sculptured Software Inc. screen on startup. However, in both European versions (the Japanese version is unaffected), the animation has no sound.
+
+v · t · eThe Mortal Kombat series
+ ArcadeMortal Kombat •  Mortal Kombat II •  Mortal Kombat 3 •  Ultimate Mortal Kombat 3 •  Mortal Kombat 4
+ SNESMortal Kombat •  Mortal Kombat II (Prototype) •  Mortal Kombat 3 •  Ultimate Mortal Kombat 3
+ GenesisMortal Kombat •  Mortal Kombat II •  Mortal Kombat 3 (Prototype) •  Ultimate Mortal Kombat 3
+ 32XMortal Kombat II
+ Game Boy (Color)Mortal Kombat (Prototype)  •  Mortal Kombat II •  Mortal Kombat 3 •  Mortal Kombat 4
+ Sega Master SystemMortal Kombat •  Mortal Kombat II
+ Game GearMortal Kombat •  Mortal Kombat II •  Mortal Kombat 3
+ Sega SaturnMortal Kombat II
+ DreamcastMortal Kombat Gold
+ PlayStationMortal Kombat II •  Mortal Kombat 3 •  Mortal Kombat Mythologies: Sub-Zero •  Mortal Kombat: Special Forces
+ PlayStation 2Mortal Kombat: Deadly Alliance •  Mortal Kombat: Deception (Prototype) •  Mortal Kombat: Shaolin Monks •  Mortal Kombat: Armageddon
+ PlayStation 3Mortal Kombat vs. DC Universe •  Mortal Kombat (2011)
+ PlayStation VitaMortal Kombat (2011)
+ Game Boy AdvanceMortal Kombat Advance •  Mortal Kombat: Deadly Alliance •  Mortal Kombat: Tournament Edition
+ Nintendo 64Mortal Kombat 4 •  Mortal Kombat Mythologies: Sub-Zero
+ GameCubeMortal Kombat: Deadly Alliance •  Mortal Kombat: Deception
+ WiiMortal Kombat: Armageddon
+ XboxMortal Kombat: Deadly Alliance •  Mortal Kombat: Deception •  Mortal Kombat: Shaolin Monks •  Mortal Kombat: Armageddon
+ Xbox 360Mortal Kombat vs. DC Universe •  Mortal Kombat (2011)
+ WindowsMortal Kombat 4 •  Mortal Kombat (2011) •  Mortal Kombat X
+Compilations
+ Game Boy (Color)Mortal Kombat & Mortal Kombat II
+ Game.comMortal Kombat Trilogy
+ PlayStationMortal Kombat Trilogy
+ Nintendo 64Mortal Kombat Trilogy (Prototypes)
+ WindowsMortal Kombat Arcade Kollection
+
+
+
+
+
+
+
+		
+		Retrieved from "https://tcrf.net/index.php?title=Mortal_Kombat_II_(SNES)&oldid=1254130"
+		
+		Categories: Pages missing developer referencesGames developed by Sculptured SoftwarePages missing publisher referencesGames published by Acclaim EntertainmentGames published by Acclaim JapanSNES gamesPages missing date referencesGames released in 1994Games released in NovemberGames released on November 11Games released in SeptemberGames released on September 9Games released in OctoberGames with regional differencesGames with revisional differencesMortal Kombat seriesCleanup > Pages missing date references
+Cleanup > Pages missing developer references
+Cleanup > Pages missing publisher references
+Games > Games by content > Games with regional differences
+Games > Games by content > Games with revisional differences
+Games > Games by developer > Games developed by Throwback Entertainment > Games developed by Acclaim Entertainment > Games developed by Acclaim Studios Salt Lake City > Games developed by Sculptured Software
+Games > Games by platform > SNES games
+Games > Games by publisher > Games published by Throwback Entertainment > Games published by Acclaim Entertainment
+Games > Games by publisher > Games published by Throwback Entertainment > Games published by Acclaim Entertainment > Games published by Acclaim Japan
+Games > Games by release date > Games released in 1994
+Games > Games by release date > Games released in November
+Games > Games by release date > Games released in November > Games released on November 11
+Games > Games by release date > Games released in October
+Games > Games by release date > Games released in September
+Games > Games by release date > Games released in September > Games released on September 9
+Games > Games by series > Mortal Kombat series
+		
+		
+	
+
+
+
+		
+			Navigation menu
+			
+									
+						Personal tools
+						
+							EnglishCreate accountLog in						
+					
+									
+										
+						Namespaces
+						
+							PageDiscussion						
+					
+										
+												
+						
+							Variants
+						
+						
+													
+					
+									
+				
+										
+						Views
+						
+							ReadView sourceView history						
+					
+										
+						
+						More
+						
+													
+					
+										
+						
+							Search
+						
+						
+							
+															
+						
+					
+									
+			
+			
+				
+						
+			Main
+			
+								
+					Main pageRecent changesRandom pageRules & Editing HelpFAQTo-do listDonateRelated Links				
+							
+		
+			
+			Community
+			
+								
+					Message BoardChat (Web client)Chat (IRC)DiscordReddit@CuttingRoomWiki				
+							
+		
+			
+			Games
+			
+								
+					By platformBy seriesBy contentBy release dateBy developerBy publisherFeatured articles				
+							
+		
+			
+			Tools
+			
+								
+					What links hereRelated changesSpecial pagesPrintable versionPermanent linkPage information				
+							
+		
+				
+		
+				
+						
+								 This page was last edited on 30 June 2022, at 20:00.
+								Content is available under Attribution 3.0 Unported unless otherwise noted.
+							
+						
+								Privacy policy
+								About The Cutting Room Floor
+								Disclaimers
+							
+										
+										
+											
+										
+											
+									
+						
+		
+		
+
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.075","walltime":"0.086","ppvisitednodes":{"value":1567,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1000000},"postexpandincludesize":{"value":35773,"limit":2097152},"templateargumentsize":{"value":14310,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":10,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":179,"limit":5000000},"timingprofile":["100.00%   56.199      1 -total"," 59.73%   33.566      1 Template:Bob"," 23.66%   13.297      1 Template:Mortal_Kombat_series"," 17.84%   10.027      1 Template:Navbox"," 17.40%    9.779     17 Template:Namespace_detect"," 13.73%    7.718      1 Template:Namespaces"," 10.62%    5.969      1 Template:TalkIndicator","  9.02%    5.069      1 Template:Developer","  8.66%    4.866     26 Template:Navboxrow","  7.08%    3.979      2 Template:Mbox"]},"cachereport":{"timestamp":"20231210042252","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":80});});
+
